@@ -1,57 +1,57 @@
-state,state_abr,votes,market
-Alabama,AL,9,6625
-Alaska,AK,3,6591
-Arizona,AZ,11,5596
-Arkansas,AR,6,6597
-California,CA,55,6611
-Colorado,CO,9,5605
-Connecticut,CT,7,6587
-Delaware,DE,3,6636
-District of Columbia,DC,3,6644
-Florida,FL,29,5544
-Georgia,GA,16,5604
-Hawaii,HI,4,6631
-Idaho,ID,4,6623
-Illinois,IL,20,6613
-Indiana,IN,11,6572
-Iowa,IA,6,5603
-Kansas,KS,6,6627
-Kentucky,KY,8,6592
-Louisiana,LA,8,6617
-Maine,ME-01,1,6647
-Maine,ME-02,1,6190
-Maine,ME,2,6571
-Maryland,MD,10,6593
-Massachusetts,MA,11,6596
-Michigan,MI,16,6631
-Minnesota,MN,10,5597
-Mississippi,MS,6,6628
-Missouri,MO,10,6581
-Montana,MT,3,6606
-Nebraska,NE-01,1,6645
-Nebraska,NE-02,1,6608
-Nebraska,NE-03,1,6646
-Nebraska,NE,2,6624
-Nevada,NV,6,5601
-New Hampshire,NH,4,5598
-New Jersey,NJ,14,6580
-New Mexico,NM,5,6573
-New York,NY,29,6612
-North Carolina,NC,15,5599
-North Dakota,ND,3,6637
-Ohio,OH,18,5600
-Oklahoma,OK,7,6616
-Oregon,OR,7,6582
-Pennsylvania,PA,20,5543
-Rhode Island,RI,4,6629
-South Carolina,SC,9,6609
-South Dakota,SD,3,6638
-Tennessee,TN,11,6586
-Texas,TX,38,5798
-Utah,UT,6,6585
-Vermont,VT,3,6633
-Virginia,VA,13,5602
-Washington,WA,12,6598
-West Virginia,WV,5,6615
-Wisconsin,WI,10,5542
-Wyoming,WY,3,6632
+﻿state,state_abr,votes,marketID2024,marketID2020,marketID2016
+Alabama,AL,9,,6625,2340
+Alaska,AK,3,,6591,2439
+Arizona,AZ,11,,5596,2135
+Arkansas,AR,6,,6597,2374
+California,CA,55,,6611,2174
+Colorado,CO,9,,5605,2099
+Connecticut,CT,7,,6587,2357
+Delaware,DE,3,,6636,2419
+District of Columbia,DC,3,,6644,2438
+Florida,FL,29,,5544,2103
+Georgia,GA,16,,5604,2113
+Hawaii,HI,4,,6631,2392
+Idaho,ID,4,,6623,2391
+Illinois,IL,20,,6613,2280
+Indiana,IN,11,,6572,2136
+Iowa,IA,6,,5603,2116
+Kansas,KS,6,,6627,2375
+Kentucky,KY,8,,6592,2342
+Louisiana,LA,8,,6617,2341
+Maine,ME-01,1,,6647,
+Maine,ME-02,1,,6190,2401
+Maine,ME,2,,6571,2416
+Maryland,MD,10,,6593,2310
+Massachusetts,MA,11,,6596,2290
+Michigan,MI,16,,6631,2132
+Minnesota,MN,10,,5597,2220
+Mississippi,MS,6,,6628,2373
+Missouri,MO,10,,6581,2219
+Montana,MT,3,,6606,2418
+Nebraska,NE-01,1,,6645,
+Nebraska,NE-02,1,,6608,2402
+Nebraska,NE-03,1,,6646,
+Nebraska,NE,2,,6624,2394
+Nevada,NV,6,,5601,2114
+New Hampshire,NH,4,,5598,2115
+New Jersey,NJ,14,,6580,2281
+New Mexico,NM,5,,6573,2376
+New York,NY,29,,6612,2112
+North Carolina,NC,15,,5599,2134
+North Dakota,ND,3,,6637,2431
+Ohio,OH,18,,5600,2102
+Oklahoma,OK,7,,6616,2356
+Oregon,OR,7,,6582,2355
+Pennsylvania,PA,20,,5543,2101
+Rhode Island,RI,4,,6629,2417
+South Carolina,SC,9,,6609,2339
+South Dakota,SD,3,,6638,2432
+Tennessee,TN,11,,6586,2311
+Texas,TX,38,,5798,2196
+Utah,UT,6,,6585,2230
+Vermont,VT,3,,6633,2437
+Virginia,VA,13,,5602,2100
+Washington,WA,12,,6598,2291
+West Virginia,WV,5,,6615,2393
+Wisconsin,WI,10,,5542,2133
+Wyoming,WY,3,,6632,2436
